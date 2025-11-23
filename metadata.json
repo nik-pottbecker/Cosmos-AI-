@@ -1,0 +1,8 @@
+{
+  "name": "Cosmos Math AI",
+  "description": "An advanced mathematical assistant with step-by-step solving, quizzes, visualization, and conversational voice capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
